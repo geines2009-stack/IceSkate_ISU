@@ -1,0 +1,9 @@
+ATUALIZACAO DO ICESKATE ISU
+
+1. Importe banco.sql apenas se ainda nao criou o banco (ele recria as tabelas).
+2. Para manter seus dados atuais, abra phpMyAdmin, selecione iceskate_isu e importe adicionar_belgica_e_fotos.sql.
+3. O script pode ser executado novamente sem duplicar os tres cadastros.
+
+IMPORTANTE SOBRE AS FOTOS
+O script configura retratos oficiais ISU para Jade Hovine e Sofiia Beznosikova. A fotografia individual de Max Leleu nao foi validada porque o servidor de imagens ISU expirou durante a consulta; por isso o registro da dupla usa temporariamente o retrato de Sofiia.
+As fotos dos atletas da Italia, Japao e Russia que ja estavam no seu banco nao foram substituidas: o ZIP original contem apenas duas URLs genericas ilustrativas repetidas, e nao retratos identificados. Nao seria correto associar fotos encontradas sem verificacao aos atletas.

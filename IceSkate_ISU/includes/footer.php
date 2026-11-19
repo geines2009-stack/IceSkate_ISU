@@ -1,0 +1,1 @@
+</main><footer class="footer"><span>ICE<span>SKATE</span> ISU</span><span>Plataforma demonstrativa de patinação artística · Dados de exemplo</span><span>© 2026</span></footer><script src="assets/js/app.js"></script></body></html>
